@@ -1,0 +1,5 @@
+# Bad Apple NotifyIcons
+
+Code is shitty, also winforms.
+
+Program expects a folder containing images at ./Assets/Sequence, containing any amount of 26x26 images. They are read alphabetically so make sure to name them such.
